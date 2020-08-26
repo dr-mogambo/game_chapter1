@@ -16,6 +16,7 @@
     function Update() {
         helloLabel.rotation += 5;
         stage.update();
+        console.log('hkunamatata');
     }
     function Main() {
         console.log('game started...');
